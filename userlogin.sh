@@ -38,4 +38,4 @@ do
 done
 
 echo "-----------------------------------------------"
-echo "Script Modified by Yurissh OpenSource";
+echo "Script used by deen";
