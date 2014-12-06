@@ -38,4 +38,4 @@ do
 done
 
 echo "-----------------------------------------------"
-echo "Script used by deen";
+echo "Script used by encikdeen";
