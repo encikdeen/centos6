@@ -298,7 +298,7 @@ echo "Timezone : Asia/Jakarta"  | tee -a log-install.txt
 echo "Fail2Ban : [on]"  | tee -a log-install.txt
 echo "IPv6     : [off]"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "Script used by deen"  | tee -a log-install.txt
+echo "Script usedd by deen"  | tee -a log-install.txt
 echo "Thanks to Original Creator Kang Arie & Mikodemos" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "SILAHKAN REBOOT VPS ANDA !"  | tee -a log-install.txt
