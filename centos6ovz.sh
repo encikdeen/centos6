@@ -294,7 +294,7 @@ echo "----------"  | tee -a log-install.txt
 echo "Webmin   : http://$MYIP:10000/"  | tee -a log-install.txt
 echo "vnstat   : http://$MYIP:81/vnstat/"  | tee -a log-install.txt
 echo "MRTG     : http://$MYIP:81/mrtg/"  | tee -a log-install.txt
-echo "Timezone : Asia/Jakarta"  | tee -a log-install.txt
+echo "Timezone : Asia/Kuala_Lumpur"  | tee -a log-install.txt
 echo "Fail2Ban : [on]"  | tee -a log-install.txt
 echo "IPv6     : [off]"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
