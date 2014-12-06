@@ -1,4 +1,4 @@
 centos6
 =======
 
-Big thanks to YuriSSH, Kang Arie Wijayanto and Mikodemos
+Big thanks to YuriSSH, Arie Wijayanto and Mikodemos
